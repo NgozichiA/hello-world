@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>welcome Nigeria hi</h1>
+    <h1>How to become a linux admin</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
